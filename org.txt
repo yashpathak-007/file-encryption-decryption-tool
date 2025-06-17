@@ -1,0 +1,13 @@
+Data security is very important.
+
+Encryption makes messages safe from hackers.
+
+This project is written in the C language.
+
+
+This is a sample paragraph to test the encryption and decryption functionality of our C language project. It contains letters, spaces, and punctuation marks like commas, periods, and more.
+
+
+THIS IS A SAMPLE PARAGRAPH TO TEST THE ENCRYPTION AND DECRYPTION FUNCTIONALITY OF OUR C LANGUAGE PROJECT
+
+plain text file .
