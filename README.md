@@ -37,12 +37,16 @@ This project is a simple console-based application written in C for encrypting a
 
 ---
 
-## 📂 Files
+## 📁 Files
 
-- `main.c` → source code
-- `sample.txt` → sample test file
-- `output_encrypted.txt` → sample encrypted result
-- `README.md` → project explanation
+| File Name     | Description                                   |
+|---------------|-----------------------------------------------|
+| `tool.c`      | Source code (main program)                    |
+| `input.txt`   | Sample plain text input                       |
+| `output.txt`  | Encrypted or decrypted output file            |
+| `org.txt`     | Output after decryption (used for comparison) |
+| `.gitignore`  | To ignore executable files like `.exe`        |
+| `README.md`   | Project documentation (this file)             |
 
 ---
 
