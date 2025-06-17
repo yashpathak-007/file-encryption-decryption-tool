@@ -1,0 +1,22 @@
+# Ignore compiled files
+*.exe
+*.obj
+*.o
+*.out
+
+# Ignore user-specific and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore VSCode or Code::Blocks settings if used
+.vscode/
+*.code-workspace
+*.cbp
+*.layout
+
+# Ignore backup and system files
+.DS_Store
+Thumbs.db
+desktop.ini
